@@ -7,5 +7,5 @@
 ####### SchoolProject
 <br>good job<br>
 
-<a href=www.google.com>
+[google](http://www.google.com)
 
