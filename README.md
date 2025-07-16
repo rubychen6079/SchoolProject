@@ -10,3 +10,5 @@
 [google](http://www.google.com)
 
 [ruby](JAVA練習題目.docx)
+
+![weather](/pic/weather.jpg)
