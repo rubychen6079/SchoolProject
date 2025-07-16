@@ -9,4 +9,4 @@
 
 [google](http://www.google.com)
 
-[ruby](https://github.com/rubychen6079/SchoolProject)
+[ruby](8_Java SE Developer.pptx)
