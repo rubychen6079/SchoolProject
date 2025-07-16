@@ -9,4 +9,4 @@
 
 [google](http://www.google.com)
 
-[ruby](8_Java SE Developer.pptx)
+[ruby](JAVA練習題目.docx)
